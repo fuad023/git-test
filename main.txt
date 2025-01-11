@@ -5,3 +5,5 @@ Adding forth line.
 Adding fith line.
 Adding sixth line.
 sevent.
+
+// branch 2 conflict here
